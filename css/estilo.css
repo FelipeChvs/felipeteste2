@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: rgb(121, 121, 121);
+
+}
+
+.titulo {
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background: rgb(229, 43, 43);
+    margin-right: 15%;
+    margin-left: 15%;
+
+}
+
+.toxica {
+    font-size: 25px;
+}
+
+.titulo2 {
+    font-size: 25px;
+}
+
+.comunidade {
+    font-size: 20px;
+}
+
+.h3 {
+    font-size: 25px;
+}
+
+.algo {
+
+    font-size: 20px;
+}
